@@ -23,6 +23,7 @@ Saved/
 Build/
 
 # Visual Studio and IDE-specific files
+.vsconfig
 .vs/
 .vscode/
 .idea/
