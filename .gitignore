@@ -1,0 +1,36 @@
+# Binary files
+Binaries/
+
+# Config files
+Config/
+
+# Content files
+Content/
+
+# Derived data cache
+DerivedDataCache/
+
+# Intermediate files
+Intermediate/
+
+# Platforms files
+Platforms/
+
+# Saved data and logs
+Saved/
+
+# Build artifacts
+Build/
+
+# Visual Studio and IDE-specific files
+.vs/
+.vscode/
+.idea/
+*.sln
+*.suo
+
+# Unreal Project
+*.uproject
+
+# Engine files (if the project is in the engine root)
+Engine/
