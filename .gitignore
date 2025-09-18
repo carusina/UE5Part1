@@ -13,6 +13,9 @@ DerivedDataCache/
 # Intermediate files
 Intermediate/
 
+# Package files
+Package/
+
 # Platforms files
 Platforms/
 
